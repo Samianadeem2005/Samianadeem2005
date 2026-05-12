@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samia Nadeem</h1>
-<h3 align="center">SE Student | Developing Web & Data Science Skills | Python, HTML, CSS, Tailwind, Data Cleaning</h3>
+<h3 align="center">SE Student | Data Analytics & AI/ML | Python, SQL, Scikit-learn, EDA, Data Visualization</h3>
 
 <hr style="height: 5px; background-color: gray; border: none;">
 
@@ -7,15 +7,15 @@
 
 Professional & Clear:
 
-I am a Software Engineering student focusing on Data Science and web-based development, building practical solutions using Python and real-world datasets.
+I am a Software Engineering student focusing on Data Analysis and AI/ML , building practical solutions using Python and real-world datasets.
 
 Friendly & Approachable:
 
-As a Software Engineering student, I enjoy exploring Data Analysis, web-based projects, and Python programming to create meaningful, hands-on solutions.
+As a Software Engineering student, I enjoy exploring Data Analysis, and Python programming to create meaningful, hands-on solutions.
 
 Simple & Direct:
 
-Software Engineering undergraduate working with Python, Data Analysis, and web-based applications.
+Software Engineering undergraduate working with Python, Data Analysis, and  AI/ML based applications.
 
 <hr style="height: 5px; background-color: gray; border: none;">
 
@@ -24,18 +24,18 @@ Software Engineering undergraduate working with Python, Data Analysis, and web-b
 
 - Data Analysis and Visualization using Python (Pandas, Matplotlib, Seaborn)
 - Performing Exploratory Data Analysis (EDA) on real-world datasets
-- Developing web-based applications
-- Applying programming skills to practical projects and problem-solving
+- Applying programming skills to practical projects 
 
 <hr style="height: 5px; background-color: gray; border: none;">
 
 
 ## 💻 Tools & Tech 
 
-Languages: Python, SQL, NoSQL\
-Web & Frontend: React, Next.js, HTML, CSS, JavaScript\
-Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Power BI\
-Other: Data Analysis, Visualization, EDA
+-	Languages: Python, SQL, HTML, CSS
+-	ML/AI: Scikit-learn, NumPy, Pandas, Feature Engineering, Classification, Regression
+-	Data Tools: PostgreSQL, Excel, Matplotlib, Seaborn
+-	Development Tools: Jupyter Notebook, VS Code, Git, GitHub, N8N
+-	Methods: Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning
 
 <hr style="height: 5px; background-color: gray; border: none;">
 
