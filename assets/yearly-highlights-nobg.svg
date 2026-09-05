@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1380" height="760" viewBox="0 0 1380 760" role="img" aria-label="Professional experience — NETSOL Technologies and Gen AI Academy APAC">
+  <style>
+    .display { font-family: 'Inter','Segoe UI',sans-serif; font-weight: 800; font-size: 38px; fill: #FFFFFF; }
+    .year { font-family: 'JetBrains Mono','Consolas',monospace; font-weight: 800; font-size: 22px; }
+    .headline { font-family: 'Inter','Segoe UI',sans-serif; font-weight: 800; font-size: 27px; fill: #FFFFFF; }
+    .role { font-family: 'Inter','Segoe UI',sans-serif; font-size: 14px; font-style: italic; fill: #AEB7C2; }
+    .body { font-family: 'Inter','Segoe UI',sans-serif; font-size: 15px; fill: #E7EBEF; }
+    .edge { stroke-dasharray: 90 2300; animation: travel 5s linear infinite; filter: url(#glow); opacity: .95; }
+    .e2 { animation-delay: .8s; }
+    @keyframes travel { to { stroke-dashoffset: -2390; } }
+    .pulse { animation: pulse 5s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+    .rise { opacity: 0; animation: rise .9s cubic-bezier(.22,1,.36,1) forwards; }
+    .r2 { animation-delay: .18s; }
+    @keyframes rise { to { opacity: 1; } }
+    .marker { animation: marker 2s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+    @keyframes marker { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.1); opacity: .82; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1C2028" stop-opacity=".98"/><stop offset="1" stop-color="#0D1117" stop-opacity=".98"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A855F7"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+    <radialGradient id="cyanFill"><stop stop-color="#22D3EE" stop-opacity=".18"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="purpleFill"><stop stop-color="#A855F7" stop-opacity=".18"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#FFD23F"/></linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#22D3EE" fill-opacity=".07"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000" flood-opacity=".48"/></filter>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.4"/></filter>
+  </defs>
+  <rect width="1380" height="760" fill="url(#dots)"/>
+  <text x="690" y="84" class="display" text-anchor="middle">Professional Experience</text>
+  <line x1="210" y1="140" x2="1170" y2="140" stroke="url(#line)" stroke-width="3" stroke-opacity=".42"/>
+  <line x1="210" y1="140" x2="1170" y2="140" stroke="url(#line)" stroke-width="3" stroke-dasharray="4 8" class="pulse"/>
+  <circle cx="320" cy="140" r="19" fill="#0D1117" stroke="#22D3EE" stroke-width="2" class="marker"/>
+  <text x="320" y="147" class="year" fill="#22D3EE" text-anchor="middle">01</text>
+  <circle cx="1060" cy="140" r="19" fill="#0D1117" stroke="#FFD23F" stroke-width="2" class="marker" style="animation-delay:.4s"/>
+  <text x="1060" y="147" class="year" fill="#FFD23F" text-anchor="middle">02</text>
+
+  <g transform="translate(30,190)" class="rise">
+    <rect width="640" height="520" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
+    <rect x="6" y="6" width="628" height="508" rx="12" fill="url(#cyanFill)" class="pulse"/>
+    <rect width="640" height="520" rx="16" fill="none" stroke="#22D3EE" stroke-width="2" pathLength="2390" class="edge"/>
+    <text x="30" y="88" class="headline">NETSOL Technologies</text>
+    <text x="30" y="118" class="role">— AI Intern</text>
+    <line x1="30" y1="146" x2="610" y2="146" stroke="#27313A"/>
+    <text x="30" y="184" class="body">• Built a RAG-based Legal AI Assistant for cases, statutes,</text>
+    <text x="48" y="207" class="body">  laws and large document collections.</text>
+    <text x="30" y="246" class="body">• Designed multi-agent OCR + RAG workflows for scanned</text>
+    <text x="48" y="269" class="body">  legal documents and source-grounded research.</text>
+    <text x="30" y="308" class="body">• Added citation-backed answers and Voice Agents so lawyers</text>
+    <text x="48" y="331" class="body">  can verify sources through conversation.</text>
+    <text x="30" y="370" class="body">• Built the NETSOL AI Assistant with FastAPI + LangGraph,</text>
+    <text x="48" y="393" class="body">  routing knowledge queries through RAG or Text-to-SQL.</text>
+  </g>
+
+  <g transform="translate(710,190)" class="rise r2">
+    <rect width="640" height="520" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
+    <rect x="6" y="6" width="628" height="508" rx="12" fill="url(#purpleFill)" class="pulse"/>
+    <rect width="640" height="520" rx="16" fill="none" stroke="#A855F7" stroke-width="2" pathLength="2390" class="edge e2"/>
+    <text x="30" y="88" class="headline">Gen AI Academy APAC</text>
+    <text x="30" y="118" class="role">— AI Intern</text>
+    <line x1="30" y1="146" x2="610" y2="146" stroke="#27313A"/>
+    <text x="30" y="184" class="body">• Customer-facing AI Agents: deployed conversational agents</text>
+    <text x="48" y="207" class="body">  on Cloud Run with personalized user flows.</text>
+    <text x="30" y="246" class="body">• Data-driven decision models: synthesized datasets and</text>
+    <text x="48" y="269" class="body">  location intelligence for scalable expansion decisions.</text>
+    <text x="30" y="308" class="body">• Predictive analytics tools translated complex data into</text>
+    <text x="48" y="331" class="body">  signals for executive and market decisions.</text>
+    <text x="30" y="370" class="body">• Enterprise workflow automation: designed multi-agent</text>
+    <text x="48" y="393" class="body">  pipelines that remove repetitive operational friction.</text>
+  </g>
+</svg>
