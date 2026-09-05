@@ -1,77 +1,47 @@
-<h1 align="center">Hi 👋, I'm Samia Nadeem</h1>
-<h3 align="center">SE Student | Data Analytics & AI/ML | Python, SQL, Scikit-learn, EDA, Data Visualization</h3>
 
-<hr style="height: 5px; background-color: gray; border: none;">
+<div align="center">
+  <img src="./assets/redline.gif" width="100%" alt=""/>
+</div>
 
-## 💫 About Me
-
-Professional & Clear:
-
-I am a Software Engineering student focusing on Data Analysis and AI/ML , building practical solutions using Python and real-world datasets.
-
-Friendly & Approachable:
-
-As a Software Engineering student, I enjoy exploring Data Analysis, and Python programming to create meaningful, hands-on solutions.
-
-Simple & Direct:
-
-Software Engineering undergraduate working with Python, Data Analysis, and  AI/ML based applications.
-
-<hr style="height: 5px; background-color: gray; border: none;">
-
-
-## 🚀 What I Do
-
-- Data Analysis and Visualization using Python (Pandas, Matplotlib, Seaborn)
-- Performing Exploratory Data Analysis (EDA) on real-world datasets
-- Applying programming skills to practical projects 
-
-<hr style="height: 5px; background-color: gray; border: none;">
-
-
-## 💻 Tools & Tech 
-
--	Languages: Python, SQL, HTML, CSS
--	ML/AI: Scikit-learn, NumPy, Pandas, Feature Engineering, Classification, Regression
--	Data Tools: PostgreSQL, Excel, Matplotlib, Seaborn
--	Development Tools: Jupyter Notebook, VS Code, Git, GitHub, N8N
--	Methods: Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning
-
-<hr style="height: 5px; background-color: gray; border: none;">
-
-
-## 🔗 Connect With Me
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samia-nadeem-61989a371/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samianadeem247@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samianadeem2005)
-
-<hr style="height: 5px; background-color: gray; border: none;">
-
-## 💻 Tech Stack
+<!-- QUOTE:START -->
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i><br/>
+  <sub>— <b>John Johnson</b></sub>
+</p>
+<!-- QUOTE:END -->
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,tailwind,mysql,git,vscode,jupyter" />
+  <i>Production-grade tools for production-grade systems.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AbdullahBakir97">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,graphql,nodejs,vue,nuxt,react,bootstrap,tailwind,htmx,ts,js,html,css,md,postgres,mysql,redis,sqlite,mongodb,rabbitmq,docker,kubernetes,aws,heroku,vercel,nginx,githubactions,git,github,linux,bash,powershell,vscode,pycharm,postman,figma,pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=15" alt="Full tech stack" />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
-  <img src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" width="48" height="48" alt="Seaborn"/>
-  <img src="https://plotly.com/all_static/images/plotly-logo.png" width="48" height="48" alt="Plotly"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
 </p>
 
-<hr style="height: 5px; background-color: gray; border: none;">
+<br/>
+
+<a href="https://github.com/Samianadeem2005?tab=repositories">
+  <img src="./assets/tech-cards.svg" width="100%" alt="Tech Stack — Backend, Frontend, Architecture, Data Layer, DevOps, AI &amp; Data" />
+</a>
 
 
-## 📊 GitHub Stats
+
+<h2 id="highlights" align="center">💼 Professional Experience</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samianadeem2005&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samianadeem2005&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="./assets/yearly-highlights-nobg.svg" width="100%" alt="Professional experience — NETSOL Technologies and Gen AI Academy APAC" />
 </p>
 
-<hr style="height: 5px; background-color: gray; border: none;">
+<h2 id="contributions" align="center">🐍 Contribution Graph</h2>
+
+<!-- SNAKE_GRID:START -->
 <p align="center">
-  <i>💡 Always open to collaborations and learning opportunities!</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samianadeem2005/Samianadeem2005/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samianadeem2005/Samianadeem2005/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Samianadeem2005/Samianadeem2005/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
+<!-- SNAKE_GRID:END -->
