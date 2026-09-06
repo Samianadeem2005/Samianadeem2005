@@ -5,7 +5,7 @@
     .year { font-family: 'JetBrains Mono','Consolas',monospace; font-weight: 800; font-size: 22px; }
     .headline { font-family: 'Inter','Segoe UI',sans-serif; font-weight: 800; font-size: 27px; fill: #FFFFFF; }
     .role { font-family: 'Inter','Segoe UI',sans-serif; font-size: 14px; font-style: italic; fill: #AEB7C2; }
-    .body { font-family: 'Inter','Segoe UI',sans-serif; font-size: 15px; fill: #E7EBEF; }
+    .body { font-family: 'Inter','Segoe UI',sans-serif; font-size: 17px; fill: #E7EBEF; }
     .edge { stroke-dasharray: 90 2300; animation: travel 5s linear infinite; filter: url(#glow); opacity: .95; }
     .e2 { animation-delay: .8s; }
     @keyframes travel { to { stroke-dashoffset: -2390; } }

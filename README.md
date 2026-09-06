@@ -3,22 +3,17 @@
   <img src="./assets/ai-engineer-banner.svg" width="100%" alt="AI Engineer project snapshot" />
 </p>
 
-<table cellspacing="0" cellpadding="0" border="0" width="100%" style="border: 0; border-collapse: collapse;">
-  <tr>
-    <td valign="middle" width="58%" style="border: 0;">
-      <h1>𝐌𝐞 🤝 𝐀𝐈</h1>
-      <p>Still trying to figure out who's training who.</p>
-      <p>I build AI systems, break them, fix them, and then somehow call it engineering.</p>
-      <p>Currently obsessed with <strong>LLMs, AI Agents, RAG, LangGraph, MCP &amp; automation.</strong></p>
-      <p>If it involves an AI agent doing something it probably shouldn't be doing...</p>
-      <p><strong>I'll probably build it.</strong> 😭</p>
-      btw I’m Samia... maybe your next AI Engineer?
-    </td>
-    <td valign="middle" width="42%" align="right" style="border: 0;">
-      <img src="./assets/AI.jpg" width="420" alt="AI and human collaboration" />
-    </td>
-  </tr>
-</table>
+<h1 style="border-bottom: 0;">𝐌𝐞 🤝 𝐀𝐈</h1>
+<img align="right" src="./assets/AI.jpg" width="420" alt="AI and human collaboration" />
+
+<p>Still trying to figure out who's training who.</p>
+<p>I build AI systems, break them, fix them, and then somehow call it engineering.</p>
+<p>Currently obsessed with <strong>LLMs, AI Agents, RAG, LangGraph, MCP &amp; automation.</strong></p>
+<p>If it involves an AI agent doing something it probably shouldn't be doing...</p>
+<p><strong>I'll probably build it.</strong> 😭</p>
+btw I’m Samia... maybe your next AI Engineer?
+
+<br clear="all">
 
 <br>
 
@@ -26,7 +21,7 @@
   <img src="./assets/yearly-highlights-nobg.svg" width="100%" alt="Professional experience — NETSOL Technologies and Gen AI Academy APAC" />
 </p>
 
-<h1 id="projects" align="center">𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬</h1>
+<h1 id="projects" align="center" style="border-bottom: 0;">𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬</h1>
 
 <a href="https://github.com/Samianadeem2005?tab=repositories">
   <img src="./assets/tech-cards.svg" width="100%" alt="Tech Stack — Backend, Frontend, Architecture, Data Layer, DevOps, AI &amp; Data" />
@@ -35,17 +30,10 @@
 <br>
 <h1 id="legal-ai" align="left">𝐏𝐨𝐰𝐞𝐫𝐢𝐧𝐠 𝐋𝐞𝐠𝐚𝐥 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 — 𝐋𝐞𝐠𝐚𝐥 𝐀𝐈 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭</h1>
 
-<table cellspacing="0" cellpadding="0" border="0" width="100%" style="border: 0; border-collapse: collapse;">
-  <tr>
-    <td valign="top" width="34%" style="border: 0;">
-      <img src="./assets/law.jpg" width="100%" alt="AI-powered legal research and document intelligence" />
-    </td>
-    <td valign="top" width="66%" style="border: 0;">
-      <p><strong>What if lawyers could prepare research memos faster</strong> by finding the right case, statute, precedent, or evidence without manually going through hundreds of legal documents?</p>
-      <p>That was the problem I wanted to solve. So I built a <strong>RAG-based Legal AI Assistant</strong> designed around Pakistan's criminal and cyber law ecosystem. Instead of treating an LLM as a simple chatbot, I wanted it to <strong>search, reason over, and connect legal information</strong> from statutes, case law, and case-specific documents.</p>
-    </td>
-  </tr>
-</table>
+<img align="left" src="./assets/law.jpg" width="34%" alt="AI-powered legal research and document intelligence" />
+<p><strong>What if lawyers could prepare research memos faster</strong> by finding the right case, statute, precedent, or evidence without manually going through hundreds of legal documents?</p>
+<p>That was the problem I wanted to solve. So I built a <strong>RAG-based Legal AI Assistant</strong> designed around Pakistan's criminal and cyber law ecosystem. Instead of treating an LLM as a simple chatbot, I wanted it to <strong>search, reason over, and connect legal information</strong> from statutes, case law, and case-specific documents.</p>
+<br clear="all">
 
 <p>The system brings together important legal sources such as the <strong>Pakistan Penal Code (PPC), Prevention of Electronic Crimes Act (PECA), Code of Criminal Procedure (CrPC), and Qanun-e-Shahadat Order</strong>, along with provincial laws and court judgments. But legal research isn't only about finding a law. A lawyer may need to know <strong>which precedent supports an argument, whether a section applies, what procedure should have been followed, or whether evidence is consistent with earlier statements.</strong> That's where I introduced a <strong>Multi-Agent architecture</strong>, giving different agents specialized responsibilities instead of making one agent handle everything. The <strong>Statute Agent</strong> focuses on legal provisions, while the <strong>Case Law Agent</strong> searches judgments and precedents. Other agents work with uploaded <strong>FIRs, challans, Section 161 statements, court depositions, and forensic reports</strong> to extract information, build timelines, identify inconsistencies, and connect evidence across documents.</p>
 
