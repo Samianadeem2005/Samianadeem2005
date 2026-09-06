@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="800" viewBox="0 0 1300 800" role="img" aria-label="Selected AI projects">
+  <style>
+    .title { font-family: 'Inter','Segoe UI',sans-serif; font-weight: 800; font-size: 28px; fill: #FFFFFF; }
+    .tagline { font-family: 'Inter','Segoe UI',sans-serif; font-size: 15px; font-style: italic; fill: #AEB7C2; }
+    .body { font-family: 'Inter','Segoe UI',sans-serif; font-size: 15px; fill: #E7EBEF; }
+    .edge { stroke-dasharray: 90 2300; animation: travel 5s linear infinite; filter: url(#glow); opacity: .95; }
+    .e2 { animation-delay: .7s; } .e3 { animation-delay: 1.4s; } .e4 { animation-delay: 2.1s; }
+    @keyframes travel { to { stroke-dashoffset: -2390; } }
+    .pulse { animation: pulse 5s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+    .rise { opacity: 0; animation: rise .8s cubic-bezier(.22,1,.36,1) forwards; }
+    .r2 { animation-delay: .12s; } .r3 { animation-delay: .24s; } .r4 { animation-delay: .36s; }
+    @keyframes rise { to { opacity: 1; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1A2028" stop-opacity=".98"/><stop offset="1" stop-color="#0D1117" stop-opacity=".98"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFD23F"/><stop offset="1" stop-color="#FFE680"/></linearGradient>
+    <radialGradient id="cyanFill"><stop stop-color="#22D3EE" stop-opacity=".18"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="goldFill"><stop stop-color="#FFD23F" stop-opacity=".18"/><stop offset="1" stop-color="#FFD23F" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".9" fill="#22D3EE" fill-opacity=".07"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000" flood-opacity=".48"/></filter>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.4"/></filter>
+  </defs>
+  <rect width="1300" height="800" fill="url(#dots)"/>
+  <g transform="translate(30,30)" class="rise">
+    <rect width="600" height="350" rx="14" fill="url(#bg)" filter="url(#shadow)"/><rect x="6" y="6" width="588" height="338" rx="10" fill="url(#cyanFill)" class="pulse"/><rect width="600" height="350" rx="14" fill="none" stroke="#22D3EE" stroke-width="2" pathLength="2390" class="edge"/>
+    <text x="30" y="82" class="title">LinkedIn Content OS</text><text x="30" y="110" class="tagline">AI-powered content strategy platform · Sept 2026</text><text x="30" y="154" class="body">• LLM agents and RAG convert playbooks into content rules.</text><text x="30" y="180" class="body">• Extracts pillars, hooks, post anatomy and schedules.</text><text x="30" y="206" class="body">• Semantic search and deduplication keep ideas focused.</text><text x="30" y="232" class="body">• Generates strategy-aware posts and content calendars.</text>
+  </g>
+  <g transform="translate(670,30)" class="rise r2">
+    <rect width="600" height="350" rx="14" fill="url(#bg)" filter="url(#shadow)"/><rect x="6" y="6" width="588" height="338" rx="10" fill="url(#goldFill)" class="pulse"/><rect width="600" height="350" rx="14" fill="none" stroke="#FFD23F" stroke-width="2" pathLength="2390" class="edge e2"/>
+    <text x="30" y="82" class="title">Serverless AQI Forecasting</text><text x="30" y="110" class="tagline">Explainable multi-horizon ML system · Aug 2026</text><text x="30" y="154" class="body">• Serverless pipeline for automated 24h, 48h and 72h forecasts.</text><text x="30" y="180" class="body">• Horizon-specific features with seven ML model candidates.</text><text x="30" y="206" class="body">• SHAP and TimeSeriesSplit validation improve trust and rigor.</text><text x="30" y="232" class="body">• Live React + Flask + Supabase dashboard; lower RMSE.</text>
+  </g>
+  <g transform="translate(30,420)" class="rise r3">
+    <rect width="600" height="350" rx="14" fill="url(#bg)" filter="url(#shadow)"/><rect x="6" y="6" width="588" height="338" rx="10" fill="url(#cyanFill)" class="pulse"/><rect width="600" height="350" rx="14" fill="none" stroke="#22D3EE" stroke-width="2" pathLength="2390" class="edge e3"/>
+    <text x="30" y="82" class="title">Legal AI Assistant</text><text x="30" y="110" class="tagline">Source-grounded legal research and memo preparation · July 2026</text><text x="30" y="154" class="body">• Unifies cases, statutes, laws and large document collections.</text><text x="30" y="180" class="body">• OCR + RAG process scanned and unstructured legal documents.</text><text x="30" y="206" class="body">• Multi-agent retrieval delivers citation-backed answers.</text><text x="30" y="232" class="body">• Voice Agents support conversational research and verification.</text>
+  </g>
+  <g transform="translate(670,420)" class="rise r4">
+    <rect width="600" height="350" rx="14" fill="url(#bg)" filter="url(#shadow)"/><rect x="6" y="6" width="588" height="338" rx="10" fill="url(#goldFill)" class="pulse"/><rect width="600" height="350" rx="14" fill="none" stroke="#FFD23F" stroke-width="2" pathLength="2390" class="edge e4"/>
+    <text x="30" y="82" class="title">NETSOL AI Assistant</text><text x="30" y="110" class="tagline">One assistant for website, documents and database knowledge</text><text x="30" y="154" class="body">• FastAPI + LangGraph/LangChain route queries through RAG or SQL.</text><text x="30" y="180" class="body">• Website scraping and document uploads build the knowledge layer.</text><text x="30" y="206" class="body">• MCP and speech-to-text make the assistant more interactive.</text><text x="30" y="232" class="body">• Persistent chat history keeps conversations contextual.</text>
+  </g>
+</svg>

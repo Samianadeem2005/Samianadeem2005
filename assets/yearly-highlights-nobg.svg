@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1380" height="760" viewBox="0 0 1380 760" role="img" aria-label="Professional experience — NETSOL Technologies and Gen AI Academy APAC">
   <style>
-    .display { font-family: 'Inter','Segoe UI',sans-serif; font-weight: 800; font-size: 38px; fill: #FFFFFF; }
+    .display { font-family: Georgia,'Times New Roman',serif; font-weight: 800; font-size: 38px; fill: #FFFFFF; }
     .year { font-family: 'JetBrains Mono','Consolas',monospace; font-weight: 800; font-size: 22px; }
     .headline { font-family: 'Inter','Segoe UI',sans-serif; font-weight: 800; font-size: 27px; fill: #FFFFFF; }
     .role { font-family: 'Inter','Segoe UI',sans-serif; font-size: 14px; font-style: italic; fill: #AEB7C2; }
@@ -32,10 +32,12 @@
   <text x="690" y="84" class="display" text-anchor="middle">Professional Experience</text>
   <line x1="210" y1="140" x2="1170" y2="140" stroke="url(#line)" stroke-width="3" stroke-opacity=".42"/>
   <line x1="210" y1="140" x2="1170" y2="140" stroke="url(#line)" stroke-width="3" stroke-dasharray="4 8" class="pulse"/>
+  <line x1="320" y1="159" x2="320" y2="190" stroke="#22D3EE" stroke-width="1.5" stroke-opacity=".72"/>
   <circle cx="320" cy="140" r="19" fill="#0D1117" stroke="#22D3EE" stroke-width="2" class="marker"/>
-  <text x="320" y="147" class="year" fill="#22D3EE" text-anchor="middle">01</text>
+  <text x="320" y="140" class="year" fill="#22D3EE" text-anchor="middle" dominant-baseline="middle">01</text>
+  <line x1="1060" y1="159" x2="1060" y2="190" stroke="#A855F7" stroke-width="1.5" stroke-opacity=".72"/>
   <circle cx="1060" cy="140" r="19" fill="#0D1117" stroke="#FFD23F" stroke-width="2" class="marker" style="animation-delay:.4s"/>
-  <text x="1060" y="147" class="year" fill="#FFD23F" text-anchor="middle">02</text>
+  <text x="1060" y="140" class="year" fill="#FFD23F" text-anchor="middle" dominant-baseline="middle">02</text>
 
   <g transform="translate(30,190)" class="rise">
     <rect width="640" height="520" rx="16" fill="url(#bg)" filter="url(#shadow)"/>
@@ -44,13 +46,13 @@
     <text x="30" y="88" class="headline">NETSOL Technologies</text>
     <text x="30" y="118" class="role">— AI Intern</text>
     <line x1="30" y1="146" x2="610" y2="146" stroke="#27313A"/>
-    <text x="30" y="184" class="body">• Built a RAG-based Legal AI Assistant for cases, statutes,</text>
+    <text x="30" y="184" class="body">• Built a <tspan font-weight="800">RAG-based Legal AI Assistant</tspan> for cases, statutes,</text>
     <text x="48" y="207" class="body">  laws and large document collections.</text>
-    <text x="30" y="246" class="body">• Designed multi-agent OCR + RAG workflows for scanned</text>
+    <text x="30" y="246" class="body">• Designed <tspan font-weight="800">multi-agent OCR + RAG workflows</tspan> for scanned</text>
     <text x="48" y="269" class="body">  legal documents and source-grounded research.</text>
-    <text x="30" y="308" class="body">• Added citation-backed answers and Voice Agents so lawyers</text>
+    <text x="30" y="308" class="body">• Added <tspan font-weight="800">citation-backed answers</tspan> and <tspan font-weight="800">Voice Agents</tspan> so lawyers</text>
     <text x="48" y="331" class="body">  can verify sources through conversation.</text>
-    <text x="30" y="370" class="body">• Built the NETSOL AI Assistant with FastAPI + LangGraph,</text>
+    <text x="30" y="370" class="body">• Built the <tspan font-weight="800">NETSOL AI Assistant (July 2026)</tspan> with <tspan font-weight="800">FastAPI + LangGraph</tspan>,</text>
     <text x="48" y="393" class="body">  routing knowledge queries through RAG or Text-to-SQL.</text>
   </g>
 
@@ -61,13 +63,13 @@
     <text x="30" y="88" class="headline">Gen AI Academy APAC</text>
     <text x="30" y="118" class="role">— AI Intern</text>
     <line x1="30" y1="146" x2="610" y2="146" stroke="#27313A"/>
-    <text x="30" y="184" class="body">• Customer-facing AI Agents: deployed conversational agents</text>
+    <text x="30" y="184" class="body">• Customer-facing <tspan font-weight="800">AI Agents</tspan>: deployed conversational agents</text>
     <text x="48" y="207" class="body">  on Cloud Run with personalized user flows.</text>
-    <text x="30" y="246" class="body">• Data-driven decision models: synthesized datasets and</text>
+    <text x="30" y="246" class="body">• <tspan font-weight="800">Data-driven decision models</tspan>: synthesized datasets and</text>
     <text x="48" y="269" class="body">  location intelligence for scalable expansion decisions.</text>
-    <text x="30" y="308" class="body">• Predictive analytics tools translated complex data into</text>
+    <text x="30" y="308" class="body">• <tspan font-weight="800">Predictive analytics tools</tspan> translated complex data into</text>
     <text x="48" y="331" class="body">  signals for executive and market decisions.</text>
-    <text x="30" y="370" class="body">• Enterprise workflow automation: designed multi-agent</text>
+    <text x="30" y="370" class="body">• <tspan font-weight="800">Enterprise workflow automation</tspan>: designed multi-agent</text>
     <text x="48" y="393" class="body">  pipelines that remove repetitive operational friction.</text>
   </g>
 </svg>
