@@ -3,10 +3,10 @@
   <img src="./assets/ai-engineer-banner.svg" width="100%" alt="AI Engineer project snapshot" />
 </p>
 
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<table cellspacing="0" cellpadding="0" border="0" width="100%" style="border: 0; border-collapse: collapse;">
   <tr>
-    <td valign="middle" width="58%">
-      <h1>𝐌𝐞 🤝 𝐀𝐈</h2>
+    <td valign="middle" width="58%" style="border: 0;">
+      <h1>𝐌𝐞 🤝 𝐀𝐈</h1>
       <p>Still trying to figure out who's training who.</p>
       <p>I build AI systems, break them, fix them, and then somehow call it engineering.</p>
       <p>Currently obsessed with <strong>LLMs, AI Agents, RAG, LangGraph, MCP &amp; automation.</strong></p>
@@ -14,7 +14,7 @@
       <p><strong>I'll probably build it.</strong> 😭</p>
       btw I’m Samia... maybe your next AI Engineer?
     </td>
-    <td valign="middle" width="42%" align="right">
+    <td valign="middle" width="42%" align="right" style="border: 0;">
       <img src="./assets/AI.jpg" width="420" alt="AI and human collaboration" />
     </td>
   </tr>
@@ -35,12 +35,12 @@
 <br>
 <h1 id="legal-ai" align="left">𝐏𝐨𝐰𝐞𝐫𝐢𝐧𝐠 𝐋𝐞𝐠𝐚𝐥 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 — 𝐋𝐞𝐠𝐚𝐥 𝐀𝐈 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭</h1>
 
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<table cellspacing="0" cellpadding="0" border="0" width="100%" style="border: 0; border-collapse: collapse;">
   <tr>
-    <td valign="top" width="34%">
+    <td valign="top" width="34%" style="border: 0;">
       <img src="./assets/law.jpg" width="100%" alt="AI-powered legal research and document intelligence" />
     </td>
-    <td valign="top" width="66%">
+    <td valign="top" width="66%" style="border: 0;">
       <p><strong>What if lawyers could prepare research memos faster</strong> by finding the right case, statute, precedent, or evidence without manually going through hundreds of legal documents?</p>
       <p>That was the problem I wanted to solve. So I built a <strong>RAG-based Legal AI Assistant</strong> designed around Pakistan's criminal and cyber law ecosystem. Instead of treating an LLM as a simple chatbot, I wanted it to <strong>search, reason over, and connect legal information</strong> from statutes, case law, and case-specific documents.</p>
     </td>
