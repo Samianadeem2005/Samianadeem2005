@@ -1,4 +1,21 @@
 
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h2>Me 🤝 AI</h2>
+      <p>Still trying to figure out who's training who.</p>
+      <p>I build AI systems, break them, fix them, and then somehow call it engineering.</p>
+      <p>Currently obsessed with <strong>LLMs, AI Agents, RAG, LangGraph, MCP &amp; automation.</strong></p>
+      <p>If it involves an AI agent doing something it probably shouldn't be doing...</p>
+      <p><strong>I'll probably build it.</strong> 😭</p>
+    </td>
+    <td valign="top" width="45%" align="center">
+      <img src="./assets/AI.jpg" width="100%" alt="AI and human collaboration" />
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
   <img src="./assets/redline.gif" width="100%" alt=""/>
 </div>
@@ -22,17 +39,22 @@
 
 <br/>
 
+<h2 id="highlights" align="center">💼 Professional Experience</h2>
+
+<p align="center">
+  <img src="./assets/yearly-highlights-nobg.svg" width="100%" alt="Professional experience — NETSOL Technologies and Gen AI Academy APAC" />
+</p>
+
+<h2 id="highlights" align="center">💼 Projects</h2>
+
+
 <a href="https://github.com/Samianadeem2005?tab=repositories">
   <img src="./assets/tech-cards.svg" width="100%" alt="Tech Stack — Backend, Frontend, Architecture, Data Layer, DevOps, AI &amp; Data" />
 </a>
 
 
 
-<h2 id="highlights" align="center">💼 Professional Experience</h2>
 
-<p align="center">
-  <img src="./assets/yearly-highlights-nobg.svg" width="100%" alt="Professional experience — NETSOL Technologies and Gen AI Academy APAC" />
-</p>
 
 <h2 id="contributions" align="center">🐍 Contribution Graph</h2>
 
