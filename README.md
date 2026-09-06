@@ -6,7 +6,7 @@
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
   <tr>
     <td valign="middle" width="58%">
-      <h3>𝐌𝐞 🤝 𝐀𝐈</h3>
+      <h1>𝐌𝐞 🤝 𝐀𝐈</h2>
       <p>Still trying to figure out who's training who.</p>
       <p>I build AI systems, break them, fix them, and then somehow call it engineering.</p>
       <p>Currently obsessed with <strong>LLMs, AI Agents, RAG, LangGraph, MCP &amp; automation.</strong></p>
@@ -26,14 +26,14 @@
   <img src="./assets/yearly-highlights-nobg.svg" width="100%" alt="Professional experience — NETSOL Technologies and Gen AI Academy APAC" />
 </p>
 
-<h3 id="projects" align="center">𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬</h3>
+<h1 id="projects" align="center">𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬</h1>
 
 <a href="https://github.com/Samianadeem2005?tab=repositories">
   <img src="./assets/tech-cards.svg" width="100%" alt="Tech Stack — Backend, Frontend, Architecture, Data Layer, DevOps, AI &amp; Data" />
 </a>
 
 <br>
-<h3 id="legal-ai" align="left">𝐏𝐨𝐰𝐞𝐫𝐢𝐧𝐠 𝐋𝐞𝐠𝐚𝐥 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 — 𝐋𝐞𝐠𝐚𝐥 𝐀𝐈 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭</h3>
+<h1 id="legal-ai" align="left">𝐏𝐨𝐰𝐞𝐫𝐢𝐧𝐠 𝐋𝐞𝐠𝐚𝐥 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 — 𝐋𝐞𝐠𝐚𝐥 𝐀𝐈 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭</h1>
 
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
   <tr>
@@ -56,7 +56,7 @@
 
 
 
-<h3 id="contributions" align="center">𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡</h3>
+<h1 id="contributions" align="center">𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡</h1>
 
 <!-- SNAKE_GRID:START -->
 <p align="center">
@@ -69,7 +69,7 @@
 <!-- SNAKE_GRID:END -->
 
 
-<h3 id="connect" align="center">𝐋𝐞𝐭𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭</h3>
+<h1 id="connect" align="center">𝐋𝐞𝐭𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭</h1>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/samianadeem1611/">
